@@ -1,1 +1,1 @@
-A `graphql-yoga` Demo using `graphql-yoga` and the `apollo-client`.
+A GraphQL Demo using `apollo-server` and the `apollo-boost`.
